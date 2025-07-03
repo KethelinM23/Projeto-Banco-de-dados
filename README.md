@@ -56,7 +56,7 @@ Como Executar Localmente
 - Crie um banco de dados chamado: "sistema chamados"
 - Execute o script SQL abaixo para criar as tabelas:
 
-sql
+
 CREATE TABLE USUARIO (
   id_usuario INT AUTO_INCREMENT PRIMARY KEY,
   nome VARCHAR(100) NOT NULL,
@@ -118,9 +118,9 @@ Você pode usar o Postman ou a própria interface para testar:
 
 Endpoints disponíveis:
 
-GET /api/chamados` → listar chamados
-POST /api/chamados` → criar novo chamado
-PUT /api/chamados/:id` → atualizar status
+GET /api/chamados → listar chamados
+POST /api/chamados → criar novo chamado
+PUT /api/chamados/id → atualizar status
 
 
 Sobre o Projeto
