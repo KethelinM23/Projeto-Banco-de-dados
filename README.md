@@ -112,7 +112,7 @@ Dê dois cliques no "index.html"
 A interface será aberta no navegador
 
 
-Testes
+TESTES
 
 Você pode usar o Postman ou a própria interface para testar:
 
